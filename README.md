@@ -1,3 +1,17 @@
+
+
+
+./rage -p -o enc.html test.html
+
+./rage -d enc.html > decrypted.html 
+
+
+
+
+
+
+
+
 <p align="center"><img alt="The age logo, an wireframe of St. Peters dome in Rome, with the text: age, file encryption" width="600" src="https://user-images.githubusercontent.com/1225294/132245842-fda4da6a-1cea-4738-a3da-2dc860861c98.png"></p>
 
 # rage: Rust implementation of age
